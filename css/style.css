@@ -1,0 +1,21 @@
+#success_message { 
+	display: none;
+}
+
+.btn-red {
+	color: #D32F2F;
+}
+
+.registration {
+	background-color: #f6e95b;
+	background-size: cover;
+  	position: relative;
+}
+
+.larger {
+	font-size: 3.4em;
+}
+
+.smaller {
+	font-size: .7em;
+}

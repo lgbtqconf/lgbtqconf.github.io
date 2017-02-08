@@ -1,1 +1,2 @@
-# lgbtqconf.github.io
+# lgbtq-conference
+LGBTQ Conference Site
